@@ -1,0 +1,30 @@
+h1 {
+    font-family: monospace;
+    font-size: xx-large;
+    }
+
+.colorHead{
+    color: rgb(65, 65, 141);
+}
+
+#leftColumn {
+    margin: 35px;
+}
+
+
+.carousel-inner img {
+    margin: auto;
+}
+
+.socialNetwork {
+
+    text-align: right;
+}
+
+.backgroundColor{
+    background-color: rgb(241, 241, 241);
+}
+
+.centerH{
+    text-align: center;
+}
